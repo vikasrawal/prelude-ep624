@@ -54,15 +54,22 @@
 
 (defvar prelude-packages
   '(ace-window
-    avy
     anzu
+    auctex-latexmk
+    avy
     beacon
+    bibliothek
+    bibretrieve
+    bibtex-utils
     browse-kill-ring
+    cdlatex
     crux
-    discover-my-major
+    csv-mode
     diff-hl
     diminish
+    discover-my-major
     easy-kill
+    ebib
     editorconfig
     epl
     expand-region
@@ -71,19 +78,74 @@
     git-timemachine
     gitconfig-mode
     gitignore-mode
+    god-mode
+    grizzl
     guru-mode
+    helm-R
+    helm-ack
+    helm-addressbook
+    helm-ag
+    helm-bbdb
+    helm-bibtexkey
+    helm-c-yasnippet
+    helm-descbinds
+    helm-emms
+    helm-flx
+    helm-flycheck
+    helm-flymake
+    helm-flyspell
+    helm-git-files
+    helm-git-grep
+    helm-github-stars
+    helm-gitignore
+    helm-gitlab
+    helm-google
+    helm-ispell
+    helm-projectile
+    helm-recoll
+    helm-rhythmbox
+    helm-spotify
+    helm-spotify-plus
+    helm-sql-connect
+    helm-tramp
+    helm-w3m
+    helm-youtube
+    highlight-parentheses
     hl-todo
     imenu-anywhere
-    projectile
     magit
     move-text
+    ob-async
     operate-on-number
+    org-bullets
+    org-gcal
+    org-plus-contrib
+    org-ref
+    org-sticky-header
+    org-super-agenda
+    org-table-comment
+    org-table-sticky-header
+    org-variable-pitch
+    org-wc
+    org2jekyll
+    orgtbl-aggregate
+    orgtbl-show-header
+    ov
+    ox-gfm
+    projectile
+    smart-mode-line-powerline-theme
+    smart-newline
     smartparens
     smartrep
     super-save
+    swiper-helm
+    tango-plus-theme
     undo-tree
+    use-package
+    visual-fill-column
     volatile-highlights
     which-key
+    yaml-mode
     zenburn-theme
     zop-to-char)
   "A list of packages to ensure are installed at launch.")
