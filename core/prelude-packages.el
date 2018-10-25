@@ -117,11 +117,11 @@
     imenu-anywhere
     magit
     move-text
+    org-plus-contrib
     ob-async
     operate-on-number
     org-bullets
     org-gcal
-    org-plus-contrib
     org-ref
     org-sticky-header
     org-super-agenda
