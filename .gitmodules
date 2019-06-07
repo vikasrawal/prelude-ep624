@@ -1,0 +1,4 @@
+[submodule "vendor/scimaxmin"]
+	path = vendor/scimaxmin
+	url = git@github.com:vikasrawal/scimaxmin.git
+	branch = vikas
