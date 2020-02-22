@@ -14,9 +14,7 @@
 (require 'ox-odt)
 (require 'ox-html)
 (require 'ox-publish)
-;(require 'org-ref)
-;(require 'ox-bibtex)
-
+(require 'org-tempo)
 ;; optional but very useful libraries in org-ref
 (require 'doi-utils)
                                         ;  (require 'jmax-bibtex)
